@@ -43,4 +43,5 @@ cin>>s;
 }
 while(s==1);
 }
+gjkgjkgjtiouiijgkrogt
 
